@@ -1,0 +1,17 @@
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.csproj.AssemblyReference.cache
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.Form1.resources
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.csproj.GenerateResource.cache
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.AssemblyInfoInputs.cache
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.AssemblyInfo.cs
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.csproj.CoreCompileInputs.cache
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\bin\Debug\net6.0-windows\LabAbstractions.exe
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\bin\Debug\net6.0-windows\LabAbstractions.deps.json
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\bin\Debug\net6.0-windows\LabAbstractions.runtimeconfig.json
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\bin\Debug\net6.0-windows\LabAbstractions.dll
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\bin\Debug\net6.0-windows\ref\LabAbstractions.dll
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\bin\Debug\net6.0-windows\LabAbstractions.pdb
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.dll
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\ref\LabAbstractions.dll
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.pdb
+D:\Github\-LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.genruntimeconfig.cache
